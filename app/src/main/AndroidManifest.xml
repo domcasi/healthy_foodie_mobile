@@ -25,7 +25,12 @@
         <activity android:name=".about_uspage" />
         <activity android:name=".peoplebehind" />
         <activity android:name=".testpage" />
-        <activity android:name=".adminpage"></activity>
+        <activity android:name=".adminpage" />
+        <activity android:name=".pretest_page" />
+        <activity android:name=".posttest_page" />
+        <activity android:name=".user_accountpage" />
+        <activity android:name=".admin_login" />
+        <activity android:name=".quiz_settings"></activity>
     </application>
 
 </manifest>

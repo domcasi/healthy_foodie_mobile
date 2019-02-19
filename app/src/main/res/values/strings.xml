@@ -52,7 +52,7 @@
     <string name="domsemail">Email Address: domcasi25@gmail.com</string>
     <string name="scott_pons">SCOTT PONS</string>
     <string name="scott">I’m Scott 19 y/o Front-end and Back-End developer and programmer with focus in user experience and
-        minimalistic design, currently living in Marikina City, Philipines. I love what I do since I’ve started doing it.
+        minimalistic design, currently living in Marikina City, Philippines. I love what I do since I’ve started doing it.
         I find every new experience as an opportunity to learn. My favorite projects are those that require me to push beyond
         my boundaries and acquire new skills and knowledge in order to succeed. In my spare time I enjoy experimenting with
         new frameworks and libraries.</string>
@@ -66,7 +66,7 @@
     <string name="SPusername">iics.dominicmichael.casino.healthyfoodiemob.username</string>
     <string name="SPpassword">iics.dominicmichael.casino.healthyfoodiemob.password</string>
     <string name="action_settings">Settings</string>
-
+    <string name="remember_me">Remember Me</string>
     <string name="aboutus">About Us</string>
     <string name="namesss">Casino, Dominic\nCarcha, Catherine\nDavid, Jazmine\nPons, Scott\nUST-IICS</string>
 
@@ -90,6 +90,27 @@
     <string name="cancel">Cancel</string>
     <string name="noaccountyet">Sign Up Here!</string>
     <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="welcome">WELCOME TO HEALTHY FOODIE NUTRITION APP!</string>
+    <string name="welcs">Healthy Foodie is an interactive web and mobile application designed to teach
+        the basic nutritional food groups and healthy food practices that will help the children recognize
+        healthy foods and the value of healthy eating habits.</string>
+    <string name="pretest">PRETEST</string>
+    <string name="go_foods">GO FOOD</string>
+    <string name="glow_foods">GLOW FOOD</string>
+    <string name="grow_foods">GROW FOOD</string>
+    <string name="enter_question_here">ENTER QUESTION HERE</string>
+    <string name="name_of_food">name of food</string>
+    <string name="post_test">POST TEST</string>
+    <string name="student_acount">STUDENT ACOUNT</string>
+    <string name="student_information">STUDENT INFORMATION</string>
+    <string name="student_pretest_result">STUDENT PRETEST RESULT</string>
+    <string name="student_post_test_result">STUDENT POST TEST RESULT</string>
+    <string name="admin_login">ADMIN LOGIN</string>
+    <string name="i_want_it_randomize">I WANT IT RANDOMIZE</string>
+    <string name="randomize_post_test_questions">RANDOMIZE POST TEST QUESTIONS?</string>
+    <string name="randomize_pretest_questions">RANDOMIZE PRETEST QUESTIONS?</string>
+    <string name="quiz_settings">QUIZ SETTINGS</string>
 
 
 </resources>
